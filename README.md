@@ -9,7 +9,7 @@ This project explores a dataset on AI and Computer Vision applications using Exp
 - Target: `Label` with values: `Correct`, `Incorrect`, `Uncertain`
 
 ## Contents
-- `Mini_Paper_AI_Computer_Vision_With_Visuals.docx`: Mini paper document with full analysis and visualizations
+- `Mini_Paper_AI_Computer_Vision_With_Visuals_deden.docx`: Mini paper document with full analysis and visualizations
 - `confusion_matrix.png`: Visual evaluation of model prediction results
 - `feature_importance.png`: Graph of feature contributions from Random Forest
 - `README.md`: This description file
